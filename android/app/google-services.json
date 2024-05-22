@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318582055704",
+    "project_id": "kavithai-d16c6",
+    "storage_bucket": "kavithai-d16c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318582055704:android:9b3c03d93692e3a19a746d",
+        "android_client_info": {
+          "package_name": "com.example.kavithaiquote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkU4gv0wM_3TGvMTFxPENxBxNzrHJQxJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
